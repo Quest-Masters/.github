@@ -267,7 +267,7 @@ npm run format
 
 ### 시스템 구조도
 
-![DailyQuest Architecture](img.png)
+<img width="1920" height="1080" alt="Web App Reference Architecture (3)" src="https://github.com/user-attachments/assets/662abb54-bd56-4190-a545-437bd260a7b4" />
 
 _Vue.js 프론트엔드, Spring Boot 백엔드, MySQL 데이터베이스, TogetherAI 통합으로 구성된 전체 시스템 아키텍처_
 
@@ -327,7 +327,6 @@ src/
 
 - 환경 변수를 통한 민감 정보 관리
 - SSL 비활성화 설정 (개발 환경)
-- 타임존 설정 (Asia/Seoul)
 
 ## 🤖 AI 기능
 
