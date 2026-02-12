@@ -380,24 +380,3 @@ DailyQuest는 TogetherAI를 활용하여 사용자 맞춤형 퀘스트를 추천
 3. 변경사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`)
 4. 브랜치에 Push합니다 (`git push origin feature/AmazingFeature`)
 5. Pull Request를 생성합니다
-
----
-
-<div align="center">
-
-## 🎉 **DailyQuest와 함께하는 성장 여정**
-
-### _매일의 목표를 달성하고 더 나은 나를 만들어가세요!_
-
-**✨ Start Your Journey Today! ✨**
-
-[![GitHub stars](https://img.shields.io/github/stars/username/DailyQuest?style=social)](https://github.com/byesun/DailyQuest)
-[![GitHub forks](https://img.shields.io/github/forks/username/DailyQuest?style=social)](https://github.com/byesun/DailyQuest)
-
----
-
-### 💝 **Made with Love by Developer**
-
-_"매일 조금씩 성장하는 것이 큰 변화를 만든다"_
-
-</div>
